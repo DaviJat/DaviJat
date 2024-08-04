@@ -1,1 +1,1 @@
-<h1 align="center">Hi 👋, I'm Davi Jatobá</h1>
+Hi 👋, I'm Davi Jatobá
